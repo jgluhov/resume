@@ -240,7 +240,7 @@ th {
   margin: 50px auto 30px auto;
 }
 .block-photo .image {
-  background: url("/resume/images/face.png");
+  background: url("../images/face.png");
   background-size: cover;
   width: 210px;
   height: 210px;
